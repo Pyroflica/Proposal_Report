@@ -13,8 +13,7 @@ matplotlib
 
 Datasets : As mentioned in the paper that we have chosen, We have requested and succeeded in getting the original datasets used for the paper. 
 
-The hatespeech_text_label_vote_RESTRICTED_100K.csv dataset has been downloaded from: https://zenodo.org/records/3706866?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTY5OTAwMTc3MCwiZXhwIjoxNzAxNTYxNTk5fQ.eyJpZCI6IjVkZjAxNWRiLTE1MTQtNDIxYi1iYmE2LTc2NGZmMjM4ZjQyMyIsImRhdGEiOnt9LCJyYW5kb20iOiJhNTM5ZTBjZTk2YjBmMDEwZGE4YjA4YTA2M2JkNDk1OSJ9.oQ2gb38nvUQWT_0DD-qfXgN609iVCvkVTdGOgSYq2HfdvX6ChsvU1biKl1AKIZclLl_CbLSX_KCzMLdLbWbxfg
-
+The hatespeech_text_label_vote_RESTRICTED_100K.csv dataset has been downloaded from: (https://zenodo.org/record/3706866#.Y35QVOzMIZ9)
 The test_en.tsv dataset has been downloaded from: 
 https://github.com/alisonpr94/SemEval2019-Task5/blob/master/English/TaskA/Dataset/test_en.tsv
 
