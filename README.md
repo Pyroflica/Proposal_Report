@@ -25,6 +25,8 @@ Run `country_bias.ipynb` to reproduce country bias analysis.
 
 Run `compare_hatebert.ipynb` to reproduce hatebert models comparison.
 
+Run 'webdetect.ipynb' to give the URL and find the delicate texts and delicate text percentage present in the website.
+
 
 As we managed to run the notebooks using the same datasets there were no changes in our executed files from the original ones.
 The notebooks that we have executed can be accessed via the below GitHub gist links:
